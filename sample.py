@@ -1,0 +1,2 @@
+x = "sample"
+print (x)
